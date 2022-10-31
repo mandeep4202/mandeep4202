@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Mandeep Singh. Working in Bangalore based MNC. Working on US heathcare system.
+- 👋 Hi, I’m Mandeep Singh. Working as Technical Lead in Bangalore based MNC.
 - 👀 I’m interested in technology discussion and creating stuf that are usefull for mass people.
+- Primary language and Technology : Java,Spring, Hibernate, SQL,PL SQL, Microservices etc.
 - 📫 would like to connect on target11.java@gmail.com
 
 <!---
