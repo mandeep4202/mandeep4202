@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mandeep Singh. Working as Technical Lead in Bangalore based MNC.
+- 👋 Hi, I’m Mandeep Singh. Working as Technical Lead.
 - 👀 I’m interested in technology discussion and creating stuf that are usefull for mass people.
 -     Primary SKills : Java, Spring, Hibernate, SQL, PL/SQL, Microservices, REST etc.
 -     Secondary Skills : JavaScript, React
